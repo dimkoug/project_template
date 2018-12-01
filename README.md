@@ -10,6 +10,6 @@ Packages used for this template:
 2. django-extensions
 3. python-memcached
 
-optional
+Optional
 ---------
 1. psycopg2-binary (for postgres database)
