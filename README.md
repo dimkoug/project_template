@@ -5,13 +5,11 @@ Django customized project template
 Quick start
 -----------
 
-Django customized project template
-
 Packages used for this template:
 
-django-debug-toolbar
-django-extensions
-python-memcached
+1. django-debug-toolbar
+2. django-extensions
+3. python-memcached
 
 optional
-psycopg2-binary (for postgres database)
+1. psycopg2-binary (for postgres database)
