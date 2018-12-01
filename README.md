@@ -3,6 +3,8 @@ Django customized project template
 
 Quick start
 -----------
+This template is for django version 2.*
+
 
 Packages used for this template:
 -------------------------------
@@ -13,3 +15,9 @@ Packages used for this template:
 Optional
 ---------
 1. psycopg2-binary (for postgres database)
+
+
+Command to use for this template
+--------------------------------
+1. Install the packages in your virtualenv
+2. django-admin startproject projectname --template=https://github.com/dimkoug/project_template/archive/master.zip
