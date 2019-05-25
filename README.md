@@ -21,3 +21,4 @@ Command to use for this template
 --------------------------------
 1. Install the packages in your virtualenv
 2. django-admin startproject projectname --template=https://github.com/dimkoug/project_template/archive/master.zip
+3. copy settings_local_sample.py to settings_local.py
