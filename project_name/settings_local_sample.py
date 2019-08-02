@@ -41,6 +41,7 @@ TEMPLATES[0]['OPTIONS']['loaders'] = (
     'django.template.loaders.app_directories.Loader',
 )
 
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 # For postgres with postgis
 
