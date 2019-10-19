@@ -82,7 +82,8 @@ DATABASES = {
 
 
 AUTH_PASSWORD_VALIDATORS = []
-
+SESSION_ENGINE = 'django.contrib.sessions.backends.cached_db'
+SESSION_CACHE_ALIAS = "default"
 
 CACHES = {
     'default': {
